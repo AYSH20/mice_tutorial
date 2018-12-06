@@ -4,6 +4,8 @@ A short tutorial of implementing MICE in different ways
 
 The data can be obtained from [DrivenData Competition - Reboot: Box-Plots for Education](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/page/86/)
 
+MICE.py has been obtained from [here](https://github.com/jeweinberg/Pandas-MICE)
+
 References:
 
 1) https://www.statsmodels.org/dev/generated/statsmodels.imputation.mice.MICEData.html <br>
