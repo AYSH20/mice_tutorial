@@ -2,7 +2,7 @@
 A short tutorial of implementing MICE in different ways 
 
 
-The data has been obtained from [DrivenData Competition](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/page/86/)
+The data can be obtained from [DrivenData Competition - Reboot: Box-Plots for Education](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/page/86/)
 
 References:
 
