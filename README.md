@@ -1,5 +1,5 @@
 # mice_tutorial
-A short tutorial of implementing MICE in different ways 
+A short [tutorial](https://iu.mediaspace.kaltura.com/media/MICE+%28Multiple+Imputation+Chained+Equations%29/1_4zxvikbl) of implementing MICE in different ways 
 
 
 The data can be obtained from [DrivenData Competition - Reboot: Box-Plots for Education](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/page/86/)
