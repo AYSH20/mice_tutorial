@@ -5,7 +5,7 @@ A short [tutorial](https://iu.mediaspace.kaltura.com/media/MICE+%28Multiple+Impu
 
 The data can be obtained from [DrivenData Competition - Reboot: Box-Plots for Education](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/page/86/)
 
-MICE.py has been obtained from [here](https://github.com/jeweinberg/Pandas-MICE)
+MICE.py has to be obtained from [here](https://github.com/jeweinberg/Pandas-MICE)
 
 References:
 
